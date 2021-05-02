@@ -12,3 +12,10 @@
 
 
 you can find more [here](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/)
+
+
+my name is leen 
+i graduated from business school 
+i am 22 years old 
+excited to know more about programming and coding 
+this my [github account](https://github.com/leen-duafi)
