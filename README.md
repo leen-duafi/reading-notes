@@ -14,4 +14,4 @@ i am 22 years old
 | growth mindset    | [link](read1.md)    |
 | markdown  |[link](reading.md)     |
 |      git intro     |      [link](read2.md)     |
-
+|wirefire|[link](read3a.md)
