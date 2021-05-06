@@ -17,3 +17,4 @@ i am 22 years old
 |wirefire|[link](read3a.md)|
 |css|[link](read3b.md)|
 |loop|[linl](read5.md)|
+|function|[link](read6.md)|
