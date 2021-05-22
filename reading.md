@@ -7,7 +7,7 @@ You control the display of the documant 📁 like:
 
 
 
-*formatting words as **bold** or *italic*
+*formatting words as **bold** or * italic 
 
 *adding images
 
