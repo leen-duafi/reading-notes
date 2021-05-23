@@ -11,7 +11,7 @@ and here 15 topics that we will read about
 
 | read        | link        |
 | ----------- | ----------- |
-|  class-01  | [link](01.md)    |
+|  class-01  | [link](class-01.md)    |
 
 
 

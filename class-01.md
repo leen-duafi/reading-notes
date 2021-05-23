@@ -293,7 +293,7 @@ create instructions computers can follow
 
 ## FLOWCHART
 
-![image]()
+![image](https://i.ytimg.com/vi/WHH8Gx0u9Is/maxresdefault.jpg)
 
 * Arrows show how the script moves from one task 
 to the next. The different shapes represent diff€rent 
