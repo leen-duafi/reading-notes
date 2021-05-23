@@ -7,7 +7,7 @@ i graduated from business school
 
 i am 22 years old 
 
-*this is my first experince with coding and here couple of my first pages i made :
+*this is my first experince with coding and here couple of topics i studied :
 
 | read        | link        |
 | ----------- | ----------- |
