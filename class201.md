@@ -11,7 +11,21 @@ and here 15 topics that we will read about
 
 | read        | link        |
 | ----------- | ----------- |
-|  class-01  | [link](class-01.md)    |
+|   day 1  | [link](class-01.md)  |
+|  day 2 |[link])     |
+|  day 3 |[link]    |
+|  day 4 |[link]    |
+|  day 5 |[link]    |
+|  day6 |[link]    |
+|  day 7 |[link]  |
+|  day 8 |[link]   |
+|   day 9|[link]    |
+|  day 1o |[link]    |
+|  fay 11 |[link]    |
+|  day 12 |[link]    |
+|  day 13 |[link]   |
+|  day 14 |[link]     |
+|  day 15 |[link]     |
 
 
 
