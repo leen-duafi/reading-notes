@@ -21,5 +21,6 @@ i am 22 years old
 
 
 | read  201   | [link](class201.md)   |
-| ----------- | ----------- |
-| class-01   | [link](class-01.md)    |
+| ----------- | --------------------- |
+| class-01    | [link](class01.md)    |
+| class-02    | [link](class02.md)    |
