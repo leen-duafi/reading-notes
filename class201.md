@@ -12,7 +12,7 @@ and here 15 topics that we will read about
 | read        | link        |
 | ----------- | ----------- |
 |   day 1  | [link](class-01.md)  |
-|  day 2 |[link])     |
+|  day 2 |[link](class-02.md)     |
 |  day 3 |[link]    |
 |  day 4 |[link]    |
 |  day 5 |[link]    |
