@@ -11,9 +11,9 @@ and here 15 topics that we will read about
 
 | read        | link        |
 | ----------- | ----------- |
-|   day 1 | [link](class01.md)  |
-|  day 2  | [link](class02.md)     |
-|  day 3  |[link]    |
+|   day 1 | [link](class01.md)   |
+|  day 2  | [link](class02.md)   |
+|  day 3  | [link](class03.md)   |
 |  day 4  |[link]    |
 |  day 5  |[link]    |
 |  day6   |[link]    |
