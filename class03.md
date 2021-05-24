@@ -13,19 +13,6 @@ but it does not have to. For
 example, it may also contain a 
 phone number or email address
 
-
-The **ins** element can be used 
-to show content that has been 
-inserted into a document, while 
-the **del** element can show text 
-that has been deleted from it.
-
-
-The **s** element indicates 
-something that is no longer 
-accurate or relevant (but that 
-should not be deleted)
-
 The unordered list is created 
 with the **<ul>** element.
 
