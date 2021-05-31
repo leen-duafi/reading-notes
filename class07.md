@@ -40,11 +40,14 @@ represented by the <td> element (or <th> if it is a
 header).
 * You can make cells of a table span more than one row 
 or column using the rowspan and colspan attributes.
-* For long tables you can split the table into a <thead>, 
-<tbody>, and <tfoot>
+
 
 
 ## Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+
+
+
 
 * BROWSER OBJECT MODEL 
 The Browser Object Model contains 
@@ -69,13 +72,15 @@ individual section of text)
 within the page.
 
 
-* 1. Two of the window object's 
+
+*  Two of the window object's 
 properties, i nnerWi dth and 
 i nnerHei ght, show width and 
 height of the browser window. 
 
 
-* 2. Child objects are stored as 
+
+*  Child objects are stored as 
 properties of t heir parent object. 
 So dot notation is used to access 
 them, just like you would access 
@@ -86,7 +91,8 @@ used between the child object's
 name and its properties, 
 
 
-* 3. The element whose id 
+
+* The element whose id 
 attribute has a value of info is 
 selected, and the message that 
 has been built up to this point is 
@@ -94,15 +100,25 @@ written into the page.
 
 
 1. String 
+
+
 2. Number 
+
+
 3. Boolean 
+
+
 4. Undefined (a variable that has been declared, but 
 no value has been assigned to it yet) 
+
+
 5. Null (a variable with no value - it may have had 
 one at some point, but no longer has a value) 
 As you have seen, both the web browser and the 
 current document can be modeled using objects 
 (and objects can have methods and properties)
+
+
 6. 0bject 
 Under the hood, arrays and functions are considered 
 types of objects. 
