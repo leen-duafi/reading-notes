@@ -71,7 +71,11 @@ are sent to the server.
 easier for visitors to fill in forms
 
 
+
+
 ## Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+
+
 
 
 You can specify an image to act 
@@ -88,8 +92,10 @@ quotes.
 
 
 This property can be used on 
-rules that apply to the <ul> and 
-<li> elements.
+rules that apply to the ul and 
+li elements.
+
+
 
 **Lists** are indented into the page 
 by default and the list-styleposition property indicates 
@@ -98,8 +104,13 @@ appear on the inside or the
 outside of the box containing the 
 main points. 
 
+
+
+
 This property can take one of 
 two values:
+
+
 
 **outside**
 The marker sits to the left of the 
@@ -108,9 +119,12 @@ behaviour if this property is not
 used.)
 
 
+
+
 **inside**
 The marker sits inside the box of 
 text (which is indented).
+
 
 
 **font-size** sets the size of the 
