@@ -40,4 +40,4 @@ i am 22 years old
 | class-12    | [link](class12.md)    |
 |  class-13   | [link](class13.md)    |
 |  class-14   | [link](class14a.md)    |
-|  class-15   | [link](class15b.md)    |
+|  class-15   | [link](class14b.md)    |
