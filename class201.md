@@ -24,8 +24,8 @@ and here 15 topics that we will read about
 |  fay 11 | [link](class11.md)   |
 |  day 12 | [link](class12.md)   |
 |  day 13 | [link](class13.md)   |
-|  day 14 | [link](class14.md)   |
-|  day 15 | [link](class15.md)   |
+|  day 14 | [link](class14a.md)   |
+|  day 15 | [link](class14b.md)   |
 
 
 
