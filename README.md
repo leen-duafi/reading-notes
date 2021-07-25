@@ -23,13 +23,6 @@ i am 22 years old
 
 
 
-
-
-
-
-
-
-
 | read  201   | [link](201/class201.md)   |
 | ----------- | --------------------- |
 | class-01    | [link](201/class01.md)    |
@@ -47,15 +40,6 @@ i am 22 years old
 |  class-13   | [link](201/class13.md)    |
 |  class-14   | [link](201/class14a.md)    |
 |  class-15   | [link](201/class14b.md)    |
-
-
-
-
-
-
-
-
-
 
 
 

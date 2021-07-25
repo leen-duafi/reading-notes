@@ -2,9 +2,9 @@ HI!!!
 
 this is my **third level** of programing and here 15 topics that we will read about
 
-| read  301   | [link](class301.md)   |
+| read  301   | [link](301/class301.md)   |
 | ----------- | --------------------- |
-| class-01    | [link]                |
+| class-01    | [link](301/class001.md)               |
 | class-02    | [link]   |
 | class-03    | [link]   |
 | class-04    | [link]   |
