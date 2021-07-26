@@ -51,7 +51,7 @@ i am 22 years old
 | read  301   | [link](301/class301.md)   |
 | ----------- | --------------------- |
 | class-01    | [link](301/class001.md)      |
-| class-02    | [link]   |
+| class-02    | [link](301/class002.md)   |
 | class-03    | [link]   |
 | class-04    | [link]   |
 | class-05    | [link]  |
