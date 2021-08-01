@@ -9,8 +9,8 @@ this is my **third level** of programing and here 15 topics that we will read ab
 | class-03    | [link](class003.md)  |
 | class-04    | [link](class004.md)   |
 | class-05    | [link](class005.md)  |
-| class-06    | [link]  |
-| class-07    | [link]  |
+| class-06    | [link](class006.md)   |
+| class-07    | [link](class007.md)|
 |  class-08   | [link]  |
 |  class-09   | [link]  |
 |  class-10   | [link]  |

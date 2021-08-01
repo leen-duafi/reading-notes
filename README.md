@@ -55,8 +55,8 @@ i am 22 years old
 | class-03    | [link](301/class003.md) |
 | class-04    | [link](301/class004.md)   |
 | class-05    | [link](301/class005.md)  |
-| class-06    | [link]  |
-| class-07    | [link]  |
+| class-06    | [link](301/class006.md) |
+| class-07    | [link](301/class007.md)  |
 |  class-08   | [link]  |
 |  class-09   | [link]  |
 |  class-10   | [link]  |
